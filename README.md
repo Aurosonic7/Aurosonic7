@@ -113,7 +113,7 @@
     <a href="https://rubyonrails.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" alt=RubyOnRails" width = 40px/></a>
 </p>
 	<!-- IDEs -->
- <h3><p align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture><br> IDEs</p></h3>
+ <h3><p align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture><br>Code Editors and Graphics Engine</p></h3>
 <p align="center">
   &emsp;
     <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt=VisualStudioCode" width = 40px/></a>
