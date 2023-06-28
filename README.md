@@ -197,8 +197,6 @@
 </details>
 
 </br></br>
-	
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
