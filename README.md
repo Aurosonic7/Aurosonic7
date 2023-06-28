@@ -189,9 +189,11 @@
 	
 <div>
   <p align="center">
+	  <!--
 	<a href="https://github.com/Aurosonic7/Investigacion_de_operaciones">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=Investigacion_de_operaciones&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	  -->
   </p>
 </div>
 </details>
