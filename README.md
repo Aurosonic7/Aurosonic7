@@ -1,7 +1,7 @@
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- counter views -->
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=Aurosonic7&color=blueviolet&style=plastic"/>
 <img src="https://img.shields.io/badge/Age-21-blue"/>
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
@@ -25,7 +25,7 @@ Profile Views
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 
 <!-- Primer separador ABOUT ME-->
-<h3><p align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture><br> About me </p></h3>
+<h3><p align="center"> About me </p></h3>
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 312.5px></picture>
 <br>
@@ -38,6 +38,7 @@ Profile Views
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
+
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- My Competitive Programming Profiles -->
@@ -48,26 +49,10 @@ Profile Views
   <a href="https://omegaup.com/profile/Aurosonic"><img src="https://omegaup.com/media/dist/badges/legacyUser.svg" alt=OmegaUp" width = 60px/></a>
   <a href="https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1"><img src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" alt="UVA" width = 60px/></a>
 </p>
-<br>
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Connect with men -->
-<h3><p align="center"> <picture> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=100> </picture> <br> Connect with me </p> </h3>
-<br>
-<!-- Social Networking -->
-<p align="center">
-	<a href="mailto:christian.aurosonic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Aurosonic7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/00000000000"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<br>
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- Skills -->
-<h3><p align="center"> 🛠️ My Skills 🛠️ </p>
+<h3><p align="center">  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture><br> 🛠️ My Skills 🛠️ </p>
 	<!-- Programming language -->
 <p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Back-End Development </h3>
    <a href="https://edube.org"><img src="https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge" alt=c"/></a>
@@ -136,7 +121,19 @@ Profile Views
     <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/-windows-000?&logo=windows&logoColor=008fff&style=for-the-badge" alt=windows"/></a>
   &emsp;
 </p>
-<br> 
+<!-- Lines -->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
+<!-- Connect with men -->
+<h3><p align="center"> <picture> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=100> </picture> <br> 📬 Connect with me 📬 </p> </h3>
+<!-- Social Networking -->
+<p align="center">
+	<a href="mailto:christian.aurosonic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Aurosonic7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/00000000000"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- Spotify -->
