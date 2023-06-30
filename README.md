@@ -1,18 +1,26 @@
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- counter views -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aurosonic7&color=blueviolet&style=plastic"/>
+<img src="https://img.shields.io/badge/Age-21-blue"/>
+<img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
+</p>
 <!-- Imagen -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Aurosonic7", width=25%/></p>
 <!-- Words green -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&duration=4000&pause=1000&color=09F742&center=true&vCenter=true&width=500&height=40&lines=%3E_+Hi%2C+I'm+Christian+%F0%9F%91%8B;%3E_+Software+Engineering+Student+%F0%9F%91%B7;%3E_+Always+Learning+New+Things+%F0%9F%A7%A0;%3E_+Problem+Solver+%E2%9C%85;%3E_+Back-End+Developer+%F0%9F%92%BB;%3E_+Competitive+Programmer+%F0%9F%91%8D;%3E_+Open+Source+Enthusiast+%F0%9F%A7%A9" alt="Typing SVG" /></a></p>
-<!-- Lines -->
+<!--
+Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Profile Views -->
-<p align="center">
-	<b>Profile views:</b>
-	<br>
-	<img src="https://profile-counter.glitch.me/Aurosonic7/count.svg" alt="Aurosonic7", width=25%/>
-</p>
+Profile Views 
+	<p align="center">
+		<b>Profile views:</b>
+		<br>
+		<img src="https://profile-counter.glitch.me/Aurosonic7/count.svg" alt="Aurosonic7", width=25%/>
+	</p>
+-->
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 
