@@ -37,16 +37,12 @@ Profile Views
 - :student: I’m currently learning `Data science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-<br>
-
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- My Competitive Programming Profiles -->
-<h3><p align="center"> <picture> <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=3840x" width=100> </picture><br> My Competitive Programming Profiles </p></h3>
-<br>
+- :fire: My Competitive Programming `Profiles`:
 <!-- Lists of My Competitive Programming Profiles -->
-<p align="center">
+<p align="left">
+  &emsp;&emsp;&emsp;
   <a href="https://omegaup.com/profile/Aurosonic"><img src="https://omegaup.com/media/dist/badges/legacyUser.svg" alt=OmegaUp" width = 60px/></a>
+  &emsp;
   <a href="https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1"><img src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" alt="UVA" width = 60px/></a>
 </p>
 <!-- Lines -->
