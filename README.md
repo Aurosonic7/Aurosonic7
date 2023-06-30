@@ -121,38 +121,11 @@ Profile Views
     <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/-windows-000?&logo=windows&logoColor=008fff&style=for-the-badge" alt=windows"/></a>
   &emsp;
 </p>
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Connect with men -->
-<h3><p align="center"> <picture> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=100> </picture> <br> 📬 Connect with me 📬 </p> </h3>
-<!-- Social Networking -->
-<p align="center">
-	<a href="mailto:christian.aurosonic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Aurosonic7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/00000000000"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Spotify -->
-<h3><p align=center>🎧 Spotify Playing 🎧</p></h3>
-<p><img align="right" src="https://camo.githubusercontent.com/1fafb7e1b9d5369a835bfd5280e3e762f07023ca2d8c2fad9d104ceee2253842/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a3542315938515a6e7a5858624c514942752f67697068792e676966" width=250 height=170/></p>
- 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2z8F41VvN2MaX3jOvvNEDv?si=46926e420657427a)
 
-
-<br>
-<!-- motivational phrase -->
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>		
-	
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- GitHub Stats -->
-<h3 align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture><br> Github Stats</h3>
+<h3 align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture><br> GitHub Stats</h3>
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
@@ -207,5 +180,33 @@ Profile Views
   </p>
 </div>
 </details>
+<!-- Lines -->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
+<!-- Spotify -->
+<h3><p align=center>🎧 Spotify Playing 🎧</p></h3>
+<p><img align="right" src="https://camo.githubusercontent.com/1fafb7e1b9d5369a835bfd5280e3e762f07023ca2d8c2fad9d104ceee2253842/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a3542315938515a6e7a5858624c514942752f67697068792e676966" width=250 height=170/></p>
+ 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2z8F41VvN2MaX3jOvvNEDv?si=46926e420657427a)
+<br>
+<br>
+<!-- motivational phrase -->
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+<!-- Lines -->
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
+<!--Connect with men-->
+<h3><p align="center"> 📬 Connect with me 📬 </p> </h3>
+<br>
+<!--Social Networking -->
+<p align="center">
+	<a href="mailto:christian.aurosonic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Aurosonic7"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/00000000000"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
