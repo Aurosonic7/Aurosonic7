@@ -61,8 +61,7 @@
 <!-- Skills -->
 <h3><p align="center"> 🛠️ My Skills 🛠️ </p>
 	<!-- Programming language -->
-<p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> <br> Back-End Development </p></h3>
-<p align="center"> 
+<p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Back-End Development </h3>
    <a href="https://edube.org"><img src="https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge" alt=c"/></a>
   &emsp;
    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
@@ -78,8 +77,7 @@
   <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/-php-000?&logo=php&style=for-the-badge" alt="php"/></a>
 </p>
 	<!-- Frontend Development -->
-<h3><p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> <br> Front-End Development </p></h3>
-<p align="center"> 
+<h3><p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development </h3>
   <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
   &emsp;
   <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
@@ -88,10 +86,16 @@
   &emsp;
   <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
 </p>
-	<!-- Software & Tools -->
-<h3><p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> <br> Software & Tools </p></h3>
-<p align="center">
+	<!-- DB -->
+<h3><p align="left"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 50px>  </picture> Database Management System </h3>
+    <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
   &emsp;
+    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
+  &emsp;
+    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
+</p>
+	<!-- Software & Tools -->
+<h3><p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools: </h3>
     <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-000?&logo=git&style=for-the-badge" alt=git"/></a>
   &emsp;
     <a href="https://github.com"><img src="https://img.shields.io/badge/-github-000?&logo=github&style=for-the-badge" alt=github"/></a>
@@ -108,35 +112,20 @@
   &emsp;
     <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/-rubyonrails-000?&logo=rubyonrails&logoColor=CC342D&style=for-the-badge" alt=rubyonrails"/></a>
 </p>
-	<!-- DB -->
-<h3><p align="center"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 50px>  </picture> <br> Database Management System </p></h3>
-<p align="center">
-  &emsp;
-    <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
-  &emsp;
-    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
-  &emsp;
-    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
-</p>
 	<!-- IDEs -->
- <h3><p align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture><br>Code Editors and Graphics Engine</p></h3>
-<p align="center">
-  &emsp;
+ <h3><p align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Code Editors and Graphics Engine </h3>
     <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=008fff&style=for-the-badge" alt=visualstudiocode"/></a>
   &emsp;
     <a href="https://unity.com/es"><img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=757575&style=for-the-badge" alt=unity"/></a>
   &emsp;
 </p>
 	<!-- Operating Systems -->
- <h3><p align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> <br>Operating Systems</p></h3>
- 
-<p align="center">
+ <h3><p align="left"><picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 50px>  </picture> Operating Systems </h3>
+    <a href="https://www.debian.org"><img src="https://img.shields.io/badge/-debian-000?&logo=debian&logoColor=CC342D&style=for-the-badge" alt=debian"/></a>
   &emsp;
-    <a href="https://www.debian.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/debian-2-logo-png-transparent.png" alt=Debian" width = 30px/></a>
+    <a href="https://www.apple.com"><img src="https://img.shields.io/badge/-mac-000?&logo=macos&style=for-the-badge" alt=macos"/></a>
   &emsp;
-    <a href="https://www.apple.com"><img src="https://www.freeiconspng.com/thumbs/mac-icon/brushed-metal-apple-mac-icon-29.png" alt=MacOS" width = 40px/></a>
-  &emsp;
-    <a href="https://www.microsoft.com/en-us/windows"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002–2012_%28Multicolored%29.svg.png" alt=Windows" width = 40px/></a>
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/-windows-000?&logo=windows&logoColor=008fff&style=for-the-badge" alt=windows"/></a>
   &emsp;
 </p>
 <br> 
