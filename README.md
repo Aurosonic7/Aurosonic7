@@ -61,64 +61,70 @@
 <!-- Skills -->
 <h3><p align="center"> 🛠️ My Skills 🛠️ </p>
 	<!-- Programming language -->
-<p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> <br> Programming languages</p></h3>
+<p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> <br> Back-End Development </p></h3>
 <p align="center"> 
-  &emsp; 
-   <a href="https://edube.org"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt=C" width = 35px/></a>
+   <a href="https://edube.org"><img src="https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge" alt=c"/></a>
   &emsp;
-   <a href="https://edube.org"><img src="https://play-lh.googleusercontent.com/x4XUYuEs5aMObda48z6rj9ap_arbTIbwV0gQw_XaMB3UNkhkV44hAQ7nB8MSYqI3Vsk" alt=C++" width = 40px/></a>
+   <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
   &emsp;
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt=C#" width = 40px/></a>
+   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
   &emsp;
-   <a href="https://www.java.com"><img alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width = 40px/></a>
+   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
   &emsp;
-   <a href="https://www.ruby-lang.org/es/"><img alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" width = 40px/></a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=7000ff&style=for-the-badge" alt=c#"/></a>
   &emsp;
+   <a href="https://www.ruby-lang.org/es/"><img src="https://img.shields.io/badge/-ruby-000?&logo=ruby&logoColor=CC342D&style=for-the-badge" alt="ruby"/></a>
+  &emsp;
+  <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/-php-000?&logo=php&style=for-the-badge" alt="php"/></a>
 </p>
 	<!-- Frontend Development -->
-<h3><p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> <br> Frontend Development </p></h3>
+<h3><p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> <br> Front-End Development </p></h3>
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/html/"><img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width = 40px/></a> 
+  <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
   &emsp;
-  <a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width = 30px/></a> 
+  <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
   &emsp;
-  <a href="https://www.w3schools.com/js/"><img alt="JavaScript" src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width = 65px/></a>
+  <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
   &emsp;
+  <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
 </p>
 	<!-- Software & Tools -->
 <h3><p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> <br> Software & Tools </p></h3>
 <p align="center">
   &emsp;
-    <a href="https://git-scm.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" alt=Git" width = 40px/></a>
+    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-000?&logo=git&style=for-the-badge" alt=git"/></a>
   &emsp;
-    <a href="https://github.com"><img src="https://iconsplace.com/wp-content/uploads/_icons/800080/256/png/github-icon-13-256.png" alt=GitHub" width = 40px/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/-github-000?&logo=github&style=for-the-badge" alt=github"/></a>
   &emsp;
-    <a href="https://stackoverflow.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt=Stack Overflow" width = 40px/></a>
+    <a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/-stackoverflow-000?&logo=stackoverflow&style=for-the-badge" alt=stackoverflow"/></a>
   &emsp;
-    <a href="https://nextjs.org"><img src="https://media.licdn.com/dms/image/D5612AQEeFVqv4DlxcA/article-cover_image-shrink_600_2000/0/1681126288024?e=2147483647&v=beta&t=9Gv1qwhiwnaLjHuGrc40yP2WkfIIV5azPL4dJIrsgbc" alt=Next.js" width = 60px/></a>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
   &emsp;
-    <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt=Node.js" width = 40px/></a>
+    <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
   &emsp;
-    <a href="https://www.mysql.com"><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt=MySQL" width = 40px/></a>
+    <a href="https://symfony.com"><img src="https://img.shields.io/badge/-symfony-000?&logo=symfony&style=for-the-badge" alt=symfony/></a>
   &emsp;
-    <a href="https://www.mongodb.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt=MongoDB" width = 40px/></a>
+    <a href="https://laravel.com"><img src="https://img.shields.io/badge/-laravel-000?&logo=laravel&style=for-the-badge" alt=laravel"/>
   &emsp;
-    <a href="https://www.oracle.com"><img src="https://www.pngkit.com/png/full/142-1422061_oracle-database-logo-png-download-logo-oracle-sql.png" alt=Oracle" width = 40px/></a>
-    &emsp;
-    <a href="https://symfony.com"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-3772408-3151536.png" alt=Symfony" width = 40px/></a>
-    &emsp;
-    <a href="https://laravel.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=Laravel" width = 40px/>
-    &emsp;
-    <a href="https://rubyonrails.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" alt=RubyOnRails" width = 40px/></a>
+    <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/-rubyonrails-000?&logo=rubyonrails&logoColor=CC342D&style=for-the-badge" alt=rubyonrails"/></a>
+</p>
+	<!-- DB -->
+<h3><p align="center"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 50px>  </picture> <br> Database Management System </p></h3>
+<p align="center">
+  &emsp;
+    <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
+  &emsp;
+    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
+  &emsp;
+    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
 </p>
 	<!-- IDEs -->
  <h3><p align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture><br>Code Editors and Graphics Engine</p></h3>
 <p align="center">
   &emsp;
-    <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt=VisualStudioCode" width = 40px/></a>
+    <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=008fff&style=for-the-badge" alt=visualstudiocode"/></a>
   &emsp;
-    <a href="https://unity.com/es"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=Unity" width = 40px/></a>
+    <a href="https://unity.com/es"><img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=757575&style=for-the-badge" alt=unity"/></a>
   &emsp;
 </p>
 	<!-- Operating Systems -->
@@ -174,6 +180,13 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+<!-- Recent GitHub Activity -->
+<details><summary><h3>🚀 Recent GitHub Activity</h3></summary>
+	
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
 <!-- Git profile Trophies -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -200,8 +213,5 @@
   </p>
 </div>
 </details>
-
-</br></br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Lines -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
