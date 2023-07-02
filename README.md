@@ -8,7 +8,7 @@
 </p>
 <!-- Imagen -->
 <p align="center">
-<img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" alt="Aurosonic7" width=25%/></p>
+<img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" alt="Aurosonic7" width=100%/></p>
 <!--
 Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
