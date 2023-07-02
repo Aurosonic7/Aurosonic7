@@ -8,9 +8,7 @@
 </p>
 <!-- Imagen -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Aurosonic7", width=25%/></p>
-<!-- Words green -->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&duration=4000&pause=1000&color=09F742&center=true&vCenter=true&width=500&height=40&lines=%3E_+Hi%2C+I'm+Christian+%F0%9F%91%8B;%3E_+Software+Engineering+Student+%F0%9F%91%B7;%3E_+Always+Learning+New+Things+%F0%9F%A7%A0;%3E_+Problem+Solver+%E2%9C%85;%3E_+Back-End+Developer+%F0%9F%92%BB;%3E_+Competitive+Programmer+%F0%9F%91%8D;%3E_+Open+Source+Enthusiast+%F0%9F%A7%A9" alt="Typing SVG" /></a></p>
+<img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" alt="Aurosonic7" width=25%/></p>
 <!--
 Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
@@ -21,11 +19,11 @@ Profile Views
 		<img src="https://profile-counter.glitch.me/Aurosonic7/count.svg" alt="Aurosonic7", width=25%/>
 	</p>
 -->
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-
 <!-- Primer separador ABOUT ME-->
 <h3><p align="center"> About me </p></h3>
+
+<!-- Words green -->
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&duration=4000&pause=1000&color=09F742&center=true&vCenter=true&width=500&height=40&lines=%3E_+Hi%2C+I'm+Christian+%F0%9F%91%8B;%3E_+Software+Engineering+Student+%F0%9F%91%B7;%3E_+Always+Learning+New+Things+%F0%9F%A7%A0;%3E_+Problem+Solver+%E2%9C%85;%3E_+Back-End+Developer+%F0%9F%92%BB;%3E_+Competitive+Programmer+%F0%9F%91%8D;%3E_+Open+Source+Enthusiast+%F0%9F%A7%A9" alt="Typing SVG" /></a></p>
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 312.5px></picture>
 <br>
@@ -47,76 +45,120 @@ Profile Views
 </p>
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Skills -->
-<h3><p align="center">  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture><br> 🛠️ My Skills 🛠️ </p>
+<!-- MY SKILLS -->
+<h3><p align="center">  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture><br> 🛠️ My Skills 🛠️ </p></h3>
 	<!-- Programming language -->
-<p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Back-End Development </h3>
+<table align="center">
+ <tr><!--Back-End Development-->
+  <td>
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 100px> </picture>
+  </td>
+  <td>
+   <h3 align="center">Back-End Development</h3>
+  </td>
+  <td>
    <a href="https://edube.org"><img src="https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge" alt=c"/></a>
-  &emsp;
+   &emsp;
    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
-  &emsp;
+   &emsp;
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
-  &emsp;
+   &emsp;
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
-  &emsp;
+   &emsp;
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=7000ff&style=for-the-badge" alt=c#"/></a>
-  &emsp;
+   &emsp;
    <a href="https://www.ruby-lang.org/es/"><img src="https://img.shields.io/badge/-ruby-000?&logo=ruby&logoColor=CC342D&style=for-the-badge" alt="ruby"/></a>
-  &emsp;
-  <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/-php-000?&logo=php&style=for-the-badge" alt="php"/></a>
-</p>
-	<!-- Frontend Development -->
-<h3><p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development </h3>
-  <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
-  &emsp;
-  <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
-  &emsp;
-  <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
-</p>
-	<!-- DB -->
-<h3><p align="left"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 50px>  </picture> Database Management System </h3>
-    <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
-  &emsp;
-    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
-  &emsp;
-    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
-</p>
-	<!-- Software & Tools -->
-<h3><p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools: </h3>
-    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-000?&logo=git&style=for-the-badge" alt=git"/></a>
-  &emsp;
-    <a href="https://github.com"><img src="https://img.shields.io/badge/-github-000?&logo=github&style=for-the-badge" alt=github"/></a>
-  &emsp;
-    <a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/-stackoverflow-000?&logo=stackoverflow&style=for-the-badge" alt=stackoverflow"/></a>
-  &emsp;
-    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
-  &emsp;
-    <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
-  &emsp;
-    <a href="https://symfony.com"><img src="https://img.shields.io/badge/-symfony-000?&logo=symfony&style=for-the-badge" alt=symfony/></a>
-  &emsp;
-    <a href="https://laravel.com"><img src="https://img.shields.io/badge/-laravel-000?&logo=laravel&style=for-the-badge" alt=laravel"/>
-  &emsp;
-    <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/-rubyonrails-000?&logo=rubyonrails&logoColor=CC342D&style=for-the-badge" alt=rubyonrails"/></a>
-</p>
-	<!-- IDEs -->
- <h3><p align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Code Editors and Graphics Engine </h3>
-    <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=008fff&style=for-the-badge" alt=visualstudiocode"/></a>
-  &emsp;
-    <a href="https://unity.com/es"><img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=757575&style=for-the-badge" alt=unity"/></a>
-  &emsp;
-</p>
-	<!-- Operating Systems -->
- <h3><p align="left"><picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 50px>  </picture> Operating Systems </h3>
-    <a href="https://www.debian.org"><img src="https://img.shields.io/badge/-debian-000?&logo=debian&logoColor=CC342D&style=for-the-badge" alt=debian"/></a>
-  &emsp;
-    <a href="https://www.apple.com"><img src="https://img.shields.io/badge/-mac-000?&logo=macos&style=for-the-badge" alt=macos"/></a>
-  &emsp;
-    <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/-windows-000?&logo=windows&logoColor=008fff&style=for-the-badge" alt=windows"/></a>
-  &emsp;
-</p>
+   &emsp;
+   <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/-php-000?&logo=php&style=for-the-badge" alt="php"/></a>
+  </td>
+ </tr>
+ <tr><!--Frontend Development-->
+  <td>
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 100px/> </picture>
+  </td>
+  <td>
+   <h3 align="center">Front-End Development</h3>
+  </td>
+  <td>
+   <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
+   &emsp;
+   <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
+   &emsp;
+   <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
+   &emsp;
+   <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
+  </td>
+ </tr>
+ <tr><!-- DB -->
+  <td>
+   <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 100px/> </picture>
+  </td>
+  <td>
+   <h3 align="center">Database Management System</h3>
+  </td>
+  <td>
+   <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
+   &emsp;
+   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
+   &emsp;
+   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
+  </td>
+ </tr>
+ <tr><!-- Software & Tools -->
+  <td>
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 100px> </picture>
+  </td>
+  <td> 
+   <h3 align="center">Software & Tools</h3>
+  </td>
+  <td>
+   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-000?&logo=git&style=for-the-badge" alt=git"/></a>
+   &emsp;
+   <a href="https://github.com"><img src="https://img.shields.io/badge/-github-000?&logo=github&style=for-the-badge" alt=github"/></a>
+   &emsp;
+   <a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/-stackoverflow-000?&logo=stackoverflow&style=for-the-badge" alt=stackoverflow"/></a>
+   &emsp;
+   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
+   &emsp;
+   <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
+   &emsp;
+   <a href="https://symfony.com"><img src="https://img.shields.io/badge/-symfony-000?&logo=symfony&style=for-the-badge" alt=symfony/></a>
+   &emsp;
+   <a href="https://laravel.com"><img src="https://img.shields.io/badge/-laravel-000?&logo=laravel&style=for-the-badge" alt=laravel"/></a>
+   &emsp;
+   <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/-rubyonrails-000?&logo=rubyonrails&logoColor=CC342D&style=for-the-badge" alt=rubyonrails"/></a>
+  </td>
+ </tr>
+ <tr><!-- IDEs -->
+  <td>
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 100px> </picture> 
+  </td>
+  <td>
+   <h3 align="center">Code Editors and Graphics Engine</h3>
+  </td>
+  <td>
+   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=008fff&style=for-the-badge" alt=visualstudiocode"/></a>
+   &emsp;
+   <a href="https://unity.com/es"><img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=757575&style=for-the-badge" alt=unity"/></a>
+   &emsp;
+  </td>
+ </tr>
+ <tr><!-- Operating Systems -->
+  <td>
+   <picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 100px> </picture>
+  </td>
+  <td>
+   <h3 aling="center">Operating Systems</h3>
+  </td>
+  <td>
+   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/-debian-000?&logo=debian&logoColor=CC342D&style=for-the-badge" alt=debian"/></a>
+   &emsp;
+   <a href="https://www.apple.com"><img src="https://img.shields.io/badge/-mac-000?&logo=macos&style=for-the-badge" alt=macos"/></a>
+   &emsp;
+   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/-windows-000?&logo=windows&logoColor=008fff&style=for-the-badge" alt=windows"/></a>
+  </td>	  
+ </tr>
+</table>
 
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
