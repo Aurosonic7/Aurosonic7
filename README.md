@@ -144,7 +144,7 @@ Profile Views
  </tr>
  <tr><!-- Operating Systems -->
   <td>
-   <p align="center"> <picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://sistemasoperativos502027821.files.wordpress.com/2018/09/gm_20150828_182307.gif" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 aling="center">Operating Systems</h3>
