@@ -48,7 +48,7 @@ Profile Views
 <table align="center"><!-- Programming language -->
  <tr><!--Back-End Development-->
   <td>
-   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Back-End Development</h3>
@@ -71,7 +71,7 @@ Profile Views
  </tr>
  <tr><!--Frontend Development-->
   <td>
-   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Front-End Development</h3>
@@ -88,7 +88,7 @@ Profile Views
  </tr>
  <tr><!-- DB -->
   <td>
-   <p align="center"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Database Management System</h3>
@@ -103,7 +103,7 @@ Profile Views
  </tr>
  <tr><!-- Software & Tools -->
   <td>
-   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 200px/> </picture> </p>
   </td>
   <td> 
    <h3 align="center">Software & Tools</h3>
@@ -128,7 +128,7 @@ Profile Views
  </tr>
  <tr><!-- IDEs -->
   <td>
-   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Code Editors and Graphics Engine</h3>
@@ -142,7 +142,7 @@ Profile Views
  </tr>
  <tr><!-- Operating Systems -->
   <td>
-   <p align="center"> <picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 250px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn.goconqr.com/uploads/slide_property/image/526050/desktop_fb253bf9-51cb-45d1-a303-dfd5fd7cc2ec.gif" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 aling="center">Operating Systems</h3>
