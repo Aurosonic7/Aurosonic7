@@ -90,7 +90,7 @@ Profile Views
  </tr>
  <tr><!-- DB -->
   <td>
-   <p align="center"> <picture> <img src = "https://www.generalaviation.eu/wp-content/uploads/2021/06/anim-server.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://www.iconshock.com/image/Golden/Database/oracle" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Database Management System</h3>
