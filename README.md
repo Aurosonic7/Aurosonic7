@@ -64,11 +64,7 @@ Profile Views
    &emsp;
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
    &emsp;
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=7000ff&style=for-the-badge" alt=c#"/></a>
-   &emsp;
    <a href="https://www.ruby-lang.org/es/"><img src="https://img.shields.io/badge/-ruby-000?&logo=ruby&logoColor=CC342D&style=for-the-badge" alt="ruby"/></a>
-   &emsp;
-   <a href="https://www.w3schools.com/php/"><img src="https://img.shields.io/badge/-php-000?&logo=php&style=for-the-badge" alt="php"/></a>
   </td>
  </tr>
  <tr><!--Frontend Development-->
@@ -120,10 +116,6 @@ Profile Views
    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
    &emsp;
    <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
-   &emsp;
-   <a href="https://symfony.com"><img src="https://img.shields.io/badge/-symfony-000?&logo=symfony&style=for-the-badge" alt=symfony/></a>
-   &emsp;
-   <a href="https://laravel.com"><img src="https://img.shields.io/badge/-laravel-000?&logo=laravel&style=for-the-badge" alt=laravel"/></a>
    &emsp;
    <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/-rubyonrails-000?&logo=rubyonrails&logoColor=CC342D&style=for-the-badge" alt=rubyonrails"/></a>
   </td>
