@@ -113,6 +113,8 @@ Profile Views
    &emsp;
    <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
    &emsp;
+   <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/NGINX-000?style=for-the-badge&logo=NGINX&logoColor=04FF00" /></a>
+   &emsp;
    <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E"></a>
    &emsp;
    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" /></a>
