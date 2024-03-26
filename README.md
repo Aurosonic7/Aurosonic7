@@ -142,6 +142,10 @@ Profile Views
    &emsp;
    <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
    &emsp;
+   <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Express&logoColor=757575&style=for-the-badge" alt="express"/></a>
+   &emsp;
+   <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Axios&logoColor=757575&style=for-the-badge" alt="axios"/></a>
+   &emsp;
    <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=13FF00" /></a>
   </td>
  </tr>
