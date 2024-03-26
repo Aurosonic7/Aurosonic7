@@ -136,15 +136,19 @@ Profile Views
    &emsp;
    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
    &emsp;
+   <a href="https://mui.com"><img src="https://custom-icon-badges.demolab.com/badge/MUI-000?logo=MUI&logoColor=00DCFF&style=for-the-badge" alt="MUI"/></a>
+   &emsp;
    <a href="https://reactnative.dev"><img alt="reactNative" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=00E4FF"/></a>
    &emsp;
    <a href="https://ionicframework.com"><img alt="ionic" src="https://img.shields.io/badge/Ionic-000?style=for-the-badge&logo=ionic&logoColor=FF0000"/></a>
    &emsp;
    <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
    &emsp;
-   <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Express&logoColor=757575&style=for-the-badge" alt="express"/></a>
+   <a href="https://expressjs.com"><img src="https://custom-icon-badges.demolab.com/badge/Express-000?logo=Express&logoColor=FFFFFF&style=for-the-badge" alt="express"/></a>
    &emsp;
-   <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Axios&logoColor=757575&style=for-the-badge" alt="axios"/></a>
+   <a href="https://nestjs.com"><img src="https://custom-icon-badges.demolab.com/badge/NestJS-000?logo=NestJS&logoColor=F70000&style=for-the-badge" alt="NestJS"/></a>
+   &emsp;
+   <a href="https://axios-http.com"><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Axios&logoColor=7F00F7&style=for-the-badge" alt="axios"/></a>
    &emsp;
    <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=13FF00" /></a>
   </td>
