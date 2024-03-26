@@ -69,7 +69,7 @@ Profile Views
  </tr>
  <tr><!--Frontend Development-->
   <td>
-   <p align="center"> <picture> <img src = "https://i.pinimg.com/originals/29/af/e4/29afe48bd271f19bb8dc74a9b63aaba8.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/a/ae/Miitomo_Fusion_Title.jpg/revision/latest?cb=20200326203929" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Front-End Development</h3>
@@ -86,7 +86,7 @@ Profile Views
  </tr>
  <tr><!-- DB -->
   <td>
-   <p align="center"> <picture> <img src = "https://i.pinimg.com/originals/cc/b3/90/ccb390e67e96b5913f358cbf307a84d7.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://retroarcadia.files.wordpress.com/2023/03/img_0023.jpg?w=1008" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Database Management System</h3>
@@ -103,7 +103,7 @@ Profile Views
  </tr>
  <tr><!-- Tools -->
   <td>
-   <p align="center"> <picture> <img src = "https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://pdacdn.com/app/59522cf4d280e/m_super-grav.png" width = 200px/> </picture> </p>
   </td>
   <td> 
    <h3 align="center">Tools</h3>
@@ -122,7 +122,7 @@ Profile Views
  </tr>
  <tr><!-- Frameworks Front and Back -->
   <td>
-   <p align="center"> <picture> <img src = "https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/7/77/BSL_interior.png/revision/latest/scale-to-width-down/177?cb=20220416235244" width = 200px/> </picture> </p>
   </td>
   <td> 
    <h3 align="center">Frameworks Front/Back</h3>
@@ -147,7 +147,7 @@ Profile Views
  </tr>
  <tr><!-- IDEs -->
   <td>
-   <p align="center"> <picture> <img src = "https://i.pinimg.com/originals/be/82/8c/be828c40bb5a13d25c1e2579514ed6f3.gif" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://images.nintendolife.com/522afeddab795/1280x720.jpg" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Code Editors and Terminals</h3>
