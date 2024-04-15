@@ -56,15 +56,9 @@ Profile Views
    <h3 align="center">Back-End Development</h3>
   </td>
   <td>
-   <a href="https://edube.org"><img src="https://img.shields.io/badge/-C-000?&logo=C&style=for-the-badge" alt=c"/></a>
-   &emsp;
    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
    &emsp;
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
-   &emsp;
-   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
-   &emsp;
-   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=14354C" alt="python"/></a>
   </td>
  </tr>
  <tr><!--Frontend Development-->
@@ -86,17 +80,17 @@ Profile Views
  </tr>
  <tr><!-- DB -->
   <td>
-   <p align="center"> <picture> <img src = "https://retroarcadia.files.wordpress.com/2023/03/img_0023.jpg?w=1008" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://as1.ftcdn.net/v2/jpg/05/68/43/24/1000_F_568432405_XFcMG3gOylx7gUjwKBXtbzQcFBiACIY0.jpg" width = 200px/> </picture> </p>
   </td>
   <td>
-   <h3 align="center">Database Management System</h3>
+   <h3 align="center">DataBase Management System</h3>
   </td>
   <td>
+   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
+   &emsp;
    <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
    &emsp;
    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
-   &emsp;
-   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=00B6FF" alt=postgreSQL"/></a>
    &emsp;
    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
   </td>
