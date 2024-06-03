@@ -223,26 +223,6 @@ Profile Views
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=C-programming-language&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
-  <p align="center">
-	<a href="https://github.com/Aurosonic7/java-programming-language">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=java-programming-language&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-  <p align="center">
-	<a href="https://github.com/Aurosonic7/SQL">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=SQL&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-  <p align="center">
-	<a href="https://github.com/Aurosonic7/IngenieriaSoftware">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=IngenieriaSoftware&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-  <p align="center">
-	<a href="https://github.com/Aurosonic7/Proyecto_Software">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=Proyecto_Software&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
 </div>
 </details>
 <!-- Lines -->
