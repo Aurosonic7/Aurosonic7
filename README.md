@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
 </p>
 <!-- Imagen -->
-<p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9ef6590-1bf3-4231-866e-2e04fb2db6e7/des8rwk-4502bbb2-4c09-4e9c-9eaa-c19dd028f72b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5ZWY2NTkwLTFiZjMtNDIzMS04NjZlLTJlMDRmYjJkYjZlN1wvZGVzOHJ3ay00NTAyYmJiMi00YzA5LTRlOWMtOWVhYS1jMTlkZDAyOGY3MmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YJDwRSWUETUuIlBpoJsxqcVfRMIERwhrwtv_aSqolg8" alt="Aurosonic7" width=100%/> </p>
+<p align="center"> <img src="https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-e9b162d2ad3168704376ab55e1088891.jpg?resize=1&w=1920" alt="Aurosonic7" width=100%/> </p>
 <!--
 Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
