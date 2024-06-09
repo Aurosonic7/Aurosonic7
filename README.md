@@ -229,7 +229,7 @@ Profile Views
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- Spotify -->
 <h3><p align=center>🎧 Spotify Playing 🎧</p></h3>
-<p><img align="right" src="https://camo.githubusercontent.com/1fafb7e1b9d5369a835bfd5280e3e762f07023ca2d8c2fad9d104ceee2253842/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a3542315938515a6e7a5858624c514942752f67697068792e676966" width=250 height=170/></p>
+<p><img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width=250 height=170/></p>
  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2z8F41VvN2MaX3jOvvNEDv?si=46926e420657427a)
 <br>
