@@ -171,6 +171,7 @@ Profile Views
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = 100%/></a>
 <!-- GitHub Stats -->
 <h3 align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture><br> GitHub Stats</h3>
+
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
@@ -200,13 +201,13 @@ Profile Views
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 <!-- Git profile Trophies -->
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<summary align="center"> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aurosonic7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Aurosonic7" /></a> </p>
 	
-</details>
+
 <!-- My Repositories -->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
