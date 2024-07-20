@@ -50,7 +50,7 @@ Profile Views
 <table align="center">
  <tr><!--Back-End Development-->
   <td>
-   <p align="center"> <picture> <img src = "https://cdnb.artstation.com/p/assets/images/images/063/359/267/original/bryan-heemskerk-supermetroidtitlescreen.gif?1685367775" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/2172/2172824.png" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Back-End Development</h3>
@@ -65,7 +65,7 @@ Profile Views
  </tr>
  <tr><!--Frontend Development-->
   <td>
-   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/a/ae/Miitomo_Fusion_Title.jpg/revision/latest?cb=20200326203929" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/2620/2620971.png" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Front-End Development</h3>
@@ -78,7 +78,7 @@ Profile Views
  </tr>
  <tr><!-- DB -->
   <td>
-   <p align="center"> <picture> <img src = "https://as1.ftcdn.net/v2/jpg/05/68/43/24/1000_F_568432405_XFcMG3gOylx7gUjwKBXtbzQcFBiACIY0.jpg" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/11921/11921680.png" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">DataBase Management System</h3>
@@ -95,7 +95,7 @@ Profile Views
  </tr>
 <tr><!-- Frameworks Front and Back -->
   <td>
-   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/7/77/BSL_interior.png/revision/latest/scale-to-width-down/177?cb=20220416235244" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/5205/5205428.png" width = 200px/> </picture> </p>
   </td>
   <td> 
    <h3 align="center">Frameworks and Libraries Front/Back</h3>
@@ -118,7 +118,7 @@ Profile Views
  </tr>
  <tr><!-- Tools -->
   <td>
-   <p align="center"> <picture> <img src = "https://pdacdn.com/app/59522cf4d280e/m_super-grav.png" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/11498/11498951.png" width = 200px/> </picture> </p>
   </td>
   <td> 
    <h3 align="center">Tools</h3>
@@ -135,7 +135,7 @@ Profile Views
  </tr>
  <tr><!-- IDEs -->
   <td>
-   <p align="center"> <picture> <img src = "https://images.nintendolife.com/522afeddab795/1280x720.jpg" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/7909/7909932.png" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Code Editors and Terminals</h3>
