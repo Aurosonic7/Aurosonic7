@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
 </p>
 <!-- Imagen -->
-<p align="center"> <img src="https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-e9b162d2ad3168704376ab55e1088891.jpg?resize=1&w=1920" alt="Aurosonic7" width=100%/> </p>
+<p align="center"> <img src="https://wallpapercave.com/wp/EB4mmfb.jpg" alt="Aurosonic7" width=50%/> </p>
 <!--
 Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
@@ -191,7 +191,7 @@ Profile Views
 	
 
 <!-- My Repositories -->
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<summary align="center"><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
 	
@@ -207,7 +207,6 @@ Profile Views
     	</a>
   </p>
 </div>
-</details>
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- Spotify -->
