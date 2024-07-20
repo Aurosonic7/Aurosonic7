@@ -30,24 +30,22 @@ Profile Views
 -->
 <!-- ABOUT ME-->
 - :school: I am a `student` at [School of engineering and architecture](https://ulsaoaxaca.edu.mx/indexLicenciatura.html) at [University La Salle Oaxaca](https://ulsaoaxaca.edu.mx).
-- :trophy: 2º `Salle Oaxaca Programming Contest` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `OmegaUp`, `UVA`, `COJ`.
+- :computer: I am a competitive programmer at `LeetCode`.
 - :student: I’m currently learning `Data science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- :fire: My Competitive Programming `Profiles`:
+- :fire: My Competitive Programming `Profile`:
 <!-- Lists of My Competitive Programming Profiles -->
 <p align="center">
-  <a href="https://omegaup.com/profile/Aurosonic"><img src="https://omegaup.com/media/dist/badges/legacyUser.svg" alt=OmegaUp" width = 60px/></a>
-  &emsp;
-  <a href="https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1"><img src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" alt="UVA" width = 60px/></a>
+  <a href="https://leetcode.com/u/gh0st7/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt=LeetCode" width = 60px/></a>
 </p>
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- MY SKILLS -->
 <h3><p align="center">  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture><br> 🛠️ My Skills 🛠️ </p></h3>
-<table align="center"><!-- Programming language -->
+<!-- Programming language -->
+<table align="center">
  <tr><!--Back-End Development-->
   <td>
    <p align="center"> <picture> <img src = "https://cdnb.artstation.com/p/assets/images/images/063/359/267/original/bryan-heemskerk-supermetroidtitlescreen.gif?1685367775" width = 200px/> </picture> </p>
@@ -57,8 +55,10 @@ Profile Views
   </td>
   <td>
    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
-   &emsp;
+   	&emsp;
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
+	&emsp;
+   <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
   </td>
  </tr>
  <tr><!--Frontend Development-->
@@ -72,10 +72,6 @@ Profile Views
    <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
    &emsp;
    <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
-   &emsp;
-   <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
-   &emsp;
-   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue" alt="typescript"/></a>
   </td>
  </tr>
  <tr><!-- DB -->
@@ -95,6 +91,29 @@ Profile Views
    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
   </td>
  </tr>
+<tr><!-- Frameworks Front and Back -->
+  <td>
+   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/7/77/BSL_interior.png/revision/latest/scale-to-width-down/177?cb=20220416235244" width = 200px/> </picture> </p>
+  </td>
+  <td> 
+   <h3 align="center">Frameworks and Libraries Front/Back</h3>
+  </td>
+  <td>
+<a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
+   &emsp;
+<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
+   &emsp;
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
+   &emsp;
+   <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
+   &emsp;
+   <a href="https://expressjs.com"><img src="https://custom-icon-badges.demolab.com/badge/Express-000?logo=Express&logoColor=FFFFFF&style=for-the-badge" alt="express"/></a>
+   &emsp;
+   <a href="https://reactnative.dev"><img alt="reactNative" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=00E4FF"/></a>
+   &emsp;
+   <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=13FF00" /></a>
+  </td>
+ </tr>
  <tr><!-- Tools -->
   <td>
    <p align="center"> <picture> <img src = "https://pdacdn.com/app/59522cf4d280e/m_super-grav.png" width = 200px/> </picture> </p>
@@ -103,50 +122,13 @@ Profile Views
    <h3 align="center">Tools</h3>
   </td>
   <td>
-   <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-node.js-000?&logo=node.js&style=for-the-badge" alt=node.js"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E"></a>
    &emsp;
    <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
    &emsp;
    <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/NGINX-000?style=for-the-badge&logo=NGINX&logoColor=04FF00" /></a>
    &emsp;
-   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E"></a>
-   &emsp;
    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" /></a>
-   &emsp;
-   <a href="https://github.com"><img src="https://img.shields.io/badge/-github-000?&logo=github&style=for-the-badge" alt=github"/></a>
-  </td>
- </tr>
- <tr><!-- Frameworks Front and Back -->
-  <td>
-   <p align="center"> <picture> <img src = "https://static.wikia.nocookie.net/metroid/images/7/77/BSL_interior.png/revision/latest/scale-to-width-down/177?cb=20220416235244" width = 200px/> </picture> </p>
-  </td>
-  <td> 
-   <h3 align="center">Frameworks Front/Back</h3>
-  </td>
-  <td>
-   <a href="https://react.dev"><img alt="react" src="https://img.shields.io/badge/-react-000?&logo=react&style=for-the-badge"/></a>
-   &emsp;
-   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-next.js-000?&logo=next.js&style=for-the-badge" alt=next.js"/></a>
-   &emsp;
-   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031"/></a>
-   &emsp;
-   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
-   &emsp;
-   <a href="https://mui.com"><img src="https://custom-icon-badges.demolab.com/badge/MUI-000?logo=MUI&logoColor=00DCFF&style=for-the-badge" alt="MUI"/></a>
-   &emsp;
-   <a href="https://reactnative.dev"><img alt="reactNative" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=00E4FF"/></a>
-   &emsp;
-   <a href="https://ionicframework.com"><img alt="ionic" src="https://img.shields.io/badge/Ionic-000?style=for-the-badge&logo=ionic&logoColor=FF0000"/></a>
-   &emsp;
-   <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
-   &emsp;
-   <a href="https://expressjs.com"><img src="https://custom-icon-badges.demolab.com/badge/Express-000?logo=Express&logoColor=FFFFFF&style=for-the-badge" alt="express"/></a>
-   &emsp;
-   <a href="https://nestjs.com"><img src="https://custom-icon-badges.demolab.com/badge/NestJS-000?logo=NestJS&logoColor=F70000&style=for-the-badge" alt="NestJS"/></a>
-   &emsp;
-   <a href="https://axios-http.com"><img src="https://custom-icon-badges.demolab.com/badge/Axios-000?logo=Axios&logoColor=7F00F7&style=for-the-badge" alt="axios"/></a>
-   &emsp;
-   <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=13FF00" /></a>
   </td>
  </tr>
  <tr><!-- IDEs -->
