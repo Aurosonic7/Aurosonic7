@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
 </p>
 <!-- Imagen -->
-<p align="center"> <img src="https://github.com/user-attachments/assets/a76766c3-9c53-4b56-a410-d235d9c4a491" alt="Aurosonic7" width=50%/> </p>
+<p align="center">
+  <img src="https://a-static.besthdwallpaper.com/the-exile-riven-league-of-legends-lol-wallpaper-960x540-95321_43.jpg" width="60%" alt="Aurosonic7">
+</p>
 <!--
 Lines
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
