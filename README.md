@@ -135,7 +135,7 @@ Profile Views
  </tr>
  <tr><!-- IDEs -->
   <td>
-   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/7909/7909932.png" width = 200px/> </picture> </p>
+   <p align="center"> <picture> <img src = "https://cdn-icons-png.flaticon.com/128/11895/11895113.png" width = 200px/> </picture> </p>
   </td>
   <td>
    <h3 align="center">Code Editors and Terminals</h3>
