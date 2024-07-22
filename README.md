@@ -163,27 +163,27 @@ Profile Views
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aurosonic7&theme=aura&border_radius=50&mode=weekly" alt="Aurosonic7" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aurosonic7&theme=cobalt&border_radius=50&mode=weekly" alt="Aurosonic7" /></p>
 <!--GitHub Profile Stats-->
 <summary align="center"><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aurosonic7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aurosonic7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurosonic7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Aurosonic7" height="230px"/></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aurosonic7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aurosonic7&show_icons=true&count_private=true&locale=en&theme=cobalt&layout=compact&border_radius=50" height="230px"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurosonic7&border_radius=50&langs_count=10&show_icons=true&locale=en&theme=cobalt" alt="Aurosonic7" height="230px"/></p>
  <!-- Recent GitHub Activity -->
 <summary align="center"><h3>🚀 Recent GitHub Activity</h3></summary>
 
 ----
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=tokyo-night" alt="Aurosonic7" height="230px"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=dracula" alt="Aurosonic7" height="230px"/></p>
 <!-- Git profile Trophies -->
 <summary align="center"> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 
 <div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aurosonic7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Aurosonic7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aurosonic7&layout=compact&theme=onestar&column=4&margin-w=15&margin-h=15" alt="Aurosonic7" /></a> </p>
 </div>
 
 <!-- My Repositories -->
@@ -192,8 +192,8 @@ Profile Views
 ----
 
 <div>
-<p align="center"><a href="https://github.com/Aurosonic7/Operations-Research"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=Operations-Research&theme=tokyonight" alt="GitHub Stats" /></a></p>
-<p align="center"><a href="https://github.com/Aurosonic7/C-programming-language"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=C-programming-language&theme=tokyonight" alt="GitHub Stats" /></a></p>
+<p align="center"><a href="https://github.com/Aurosonic7/Operations-Research"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=Operations-Research&border_radius=25&theme=cobalt" alt="GitHub Stats" /></a></p>
+<p align="center"><a href="https://github.com/Aurosonic7/C-programming-language"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=C-programming-language&border_radius=25&theme=cobalt" alt="GitHub Stats" /></a></p>
 </div>
 
 </table>
