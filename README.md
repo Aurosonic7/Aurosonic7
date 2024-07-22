@@ -156,40 +156,50 @@ Profile Views
 <!-- GitHub Stats -->
 <h3 align=center><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture><br> GitHub Stats</h3>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aurosonic7&theme=aura&border_radius=50&mode=weekly" alt="Aurosonic7" /></p>
-
-</details>
-<!-- GitHub Profile Stats -->
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Aurosonic7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aurosonic7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurosonic7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Aurosonic7" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-<!-- Recent GitHub Activity -->
-<details><summary><h3>🚀 Recent GitHub Activity</h3></summary>
-	
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
-<!-- Git profile Trophies -->
-<summary align="center"> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aurosonic7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Aurosonic7" /></a> </p>
+<!-- Tabla de logros -->
+<table align="center">
+<tr>
+	<td align="center">
+	<summary><h3>🔥 Streak Stats</h3></summary>
+	</td>
+	<td align="center">
+	<summary><h3>💻 GitHub Profile Stats</h3></summary>
+	</td>
+	<td align="center">
+	<summary><h3>🧑🏻‍💻Languages Profile Stats</h3></summary>
+	</td>
+</tr>
+<tr>
+	<td>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aurosonic7&theme=aura&border_radius=50&mode=weekly" alt="Aurosonic7" /></p>
+	</td>
+	<td><!-- GitHub Profile Stats -->
+	<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aurosonic7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aurosonic7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+  	</p>
+	</td>
+	<td><!-- Languages Profile Stats -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurosonic7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Aurosonic7" height="230px"/>
+	</td>
+</tr>
+</table>
+<table align="center">
+<tr>
+	<td align="center">
+	<summary><h3>🚀 Recent GitHub Activity</h3></summary>
+	</td>
+	<td align="center">
+	<summary> <h3> :trophy: Git profile Trophies </h3></summary>
+	</td>
+</tr>
+<tr>
+	<td><!-- Recent GitHub Activity -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurosonic7&theme=tokyo-night" alt="Aurosonic7" height="230px"/>
+	</td>
+	<td><!-- Git profile Trophies -->
+	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aurosonic7&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Aurosonic7" /></a> </p>
+	</td>
+</tr>
+</table>
 	
 
 <!-- My Repositories -->
@@ -209,6 +219,9 @@ Profile Views
     	</a>
   </p>
 </div>
+
+</table>
+<!-- Fin de la tabla de logros -->
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!-- Spotify -->
