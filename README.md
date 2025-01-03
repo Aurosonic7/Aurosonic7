@@ -193,25 +193,10 @@ Profile Views
 
 <div>
 <p align="center"><a href="https://github.com/Aurosonic7/Operations-Research"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=Operations-Research&border_radius=25&theme=cobalt" alt="GitHub Stats" /></a></p>
-<p align="center"><a href="https://github.com/Aurosonic7/C-programming-language"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurosonic7&repo=C-programming-language&border_radius=25&theme=cobalt" alt="GitHub Stats" /></a></p>
 </div>
 
 </table>
 <!-- Fin de la tabla de logros -->
-<!-- Lines -->
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
-<!-- Spotify -->
-<h3><p align=center>🎧 Spotify Playing 🎧</p></h3>
-<p><img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width=250 height=170/></p>
- 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2z8F41VvN2MaX3jOvvNEDv?si=46926e420657427a)
-<br>
-<br>
-<!-- motivational phrase -->
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
 <!-- Lines -->
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%/></a>
 <!--Connect with men-->
