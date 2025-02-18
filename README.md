@@ -3,7 +3,7 @@
 <!-- counter views -->
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Aurosonic7&color=blueviolet&style=plastic"/>
-<img src="https://img.shields.io/badge/Age-22-blue"/>
+<!-- <img src="https://img.shields.io/badge/Age-22-blue"/> -->
 <img src="https://img.shields.io/badge/Lives-Oax%20Mexico-success"/>
 </p>
 <!-- Imagen -->
