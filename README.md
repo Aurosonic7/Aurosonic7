@@ -58,9 +58,10 @@ Profile Views
   <td>
    <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
    	&emsp;
-   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
+   <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/>
+   </a>
 	&emsp;
-   <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
+   <a href="https://www.w3schools.com/js/"><img alt="typescript" src="https://img.shields.io/badge/-typescript-000?&logo=typescript&style=for-the-badge"/></a>
   </td>
  </tr>
  <tr><!--Frontend Development-->
@@ -74,6 +75,8 @@ Profile Views
    <a href="https://www.w3schools.com/html/"><img alt="html" src="https://img.shields.io/badge/-html-000?&logo=html5&style=for-the-badge"/></a>
    &emsp;
    <a href="https://www.w3schools.com/css/"><img alt="css" src="https://img.shields.io/badge/-css-000?&logo=css3&logoColor=0070ff&style=for-the-badge"/></a>
+   &emsp;
+   <a href="https://www.w3schools.com/js/"><img alt="javascript" src="https://img.shields.io/badge/-javascript-000?&logo=javascript&style=for-the-badge"/></a>
   </td>
  </tr>
  <tr><!-- DB -->
@@ -86,9 +89,13 @@ Profile Views
   <td>
    <a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=757575&style=for-the-badge" alt="sql"/></a>
    &emsp;
-   <a href="https://www.oracle.com"><img src="https://img.shields.io/badge/-oracle-000?&logo=oracle&logoColor=CC342D&style=for-the-badge" alt=oracle"/></a>
+      <a href="https://www.java.com">
+	      <img src="https://custom-icon-badges.demolab.com/badge/Oracle-000?logo=oracle&logoColor=f80000&style=for-the-badge" alt="oracle"/>
+      </a>
    &emsp;
-   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
+   <a href="https://www.mysql.com">
+	   <img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/>
+   </a>
    &emsp;
    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
   </td>
