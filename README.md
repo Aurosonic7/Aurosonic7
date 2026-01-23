@@ -8,7 +8,7 @@
 </p>
 <!-- Imagen -->
 <p align="center">
-  <img src="https://a-static.besthdwallpaper.com/the-exile-riven-league-of-legends-lol-wallpaper-960x540-95321_43.jpg" width="60%" alt="Aurosonic7">
+  <img src="https://xboxwire.thesourcemediaassets.com/sites/2/2023/01/Age-of-Empires-II_Britons_Screenshot-4192bacdca4de2d87034.jpg" width="60%" alt="Aurosonic7">
 </p>
 <!--
 Lines
