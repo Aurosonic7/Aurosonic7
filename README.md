@@ -58,6 +58,8 @@ Profile Views
    		<a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=008fff&style=for-the-badge" alt=c++"/></a>
    	&emsp;
    		<a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/Java-000?logo=java&logoColor=red&style=for-the-badge" alt="java"/></a>
+	&emsp;
+   		<a href="https://www.python.org"><img src="https://custom-icon-badges.demolab.com/badge/Python-000?logo=python&logoColor=yellow&style=for-the-badge" alt="python"/></a>
   </td>
  </tr>
  <tr><!--Frontend Development-->
@@ -87,13 +89,13 @@ Profile Views
    	&emsp;
    		<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-mysql-000?&logo=mysql&style=for-the-badge" alt=mysql"/></a>
    &emsp;
-   		<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-postgres-000?&logo=postgresql&style=for-the-badge" alt=mysql"/></a>
+   		<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/-postgres-000?&logo=postgresql&style=for-the-badge" alt=postgres"/></a>
    &emsp;
       	<a href="https://www.java.com"><img src="https://custom-icon-badges.demolab.com/badge/-Oracle-000000?style=for-the-badge&logo=oracle_logo" alt="oracle"/></a>
    <br />
    		<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-mongodb-000?&logo=mongodb&style=for-the-badge" alt=mongodb"/></a>
    &emsp;
-   		<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-Redis-000?&logo=redis&style=for-the-badge" alt=mongodb"/></a>
+   		<a href="https://redis.io"><img src="https://img.shields.io/badge/-Redis-000?&logo=redis&style=for-the-badge" alt=redis"/></a>
   </td>
  </tr>
 <tr><!-- Frameworks Front and Back -->
